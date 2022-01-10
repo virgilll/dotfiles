@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = virgillucas0@gmail.com
+	name = Lucas Virgil
